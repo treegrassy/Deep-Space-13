@@ -45,7 +45,7 @@ Exclude =
 Edit =
 
 Name = Admin Candidate
-Include = @
+Include =
 Exclude =
 Edit =
 
